@@ -19,7 +19,7 @@ export default function Home() {
          
           <p>
             Get acess to all the publications <br />
-            <span>for $9.90 month</span>
+            <span>for $9.90 month </span>
           </p>
 
           <SubscribeButton />
